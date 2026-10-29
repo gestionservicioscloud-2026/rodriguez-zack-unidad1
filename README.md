@@ -7,11 +7,11 @@
 
 | Campo | Valor |
 | --- | --- |
-| Nombre completo | _Escribe aquí tu nombre_ |
-| Usuario de GitHub | _@tu-usuario_ |
+| Nombre completo | Zack Rodriguez |
+| Usuario de GitHub | _@zarodriguezes_ |
 | Paralelo | _A / B / C_ |
 | Unidad | _1_ |
-| Correo institucional | _tu_correo@uide.edu.ec_ |
+| Correo institucional | _zarodriguezes@uide.edu.ec_ |
 
 ## Entregas de la unidad
 
